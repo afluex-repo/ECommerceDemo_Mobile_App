@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153698118655",
+    "project_id": "afluex-school-demo-32f56",
+    "storage_bucket": "afluex-school-demo-32f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153698118655:android:6ed8a25246e83f6a4455ca",
+        "android_client_info": {
+          "package_name": "affluex.school.solutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7qAedgc_bsYcGhk6ReYfk4oeddQ9l_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153698118655:android:593c78ee7c48d4834455ca",
+        "android_client_info": {
+          "package_name": "afluex.mlm.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7qAedgc_bsYcGhk6ReYfk4oeddQ9l_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option1"
+        android:title="General" />
+    <item
+        android:id="@+id/option2"
+        android:title="Business" />
+    <item
+        android:id="@+id/option3"
+        android:title="Referral" />
+    <item
+        android:id="@+id/option4"
+        android:title="Passbook" />
+    <item
+        android:id="@+id/option5"
+        android:title="Bill Payment" />
+    <item
+        android:id="@+id/option6"
+        android:title="Recharge" />
+    <item
+        android:id="@+id/option7"
+        android:title="Shopping" />
+    <item
+        android:id="@+id/option8"
+        android:title="Travel" />
+    <item
+        android:id="@+id/option9"
+        android:title="Utilities" />
+    <item
+        android:id="@+id/option10"
+        android:title="Others" />
+
+
+</menu>

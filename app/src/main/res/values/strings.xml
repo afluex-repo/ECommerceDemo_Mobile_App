@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">E Commerce Demo
+    </string>
+
+    <string name="alert_internet">There is no Internet Connectivity</string>
+    <string name="alert_text">Alert</string>
+    <string name="share_using">Enter Mobile No.</string>
+    <string name="permission_camera_rationale11">Some permission are required to use the app.</string>
+    <string name="reqst_permission">Request permission?</string>
+
+    <!--Login-->
+    <string name="sign_in_text">Don\'t have an account ?</string>
+    <string name="signup"><u>Register Now</u></string>
+
+    <!--Signup-->
+    <string name="log_in_text">Already have an account ?</string>
+    <string name="log_in"><u>Log In</u></string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">More Shopping\nMore Cashback!</string>
+    <string name="slide_1_desc">Whatever you have got in mind we have go inside. </string>
+
+    <string name="slide_2_title">Recharge &amp; Bill Payments!</string>
+    <string name="slide_2_desc">Life is hard enough already, Let us make it a little easier.</string>
+
+    <string name="slide_3_title">Share More Earn More!</string>
+    <string name="slide_3_desc">Share. Get Shopping Point.Repeat! also do it for your friends!</string>
+
+    <string name="go_up"><u>Go To UP</u></string>
+    <string name="go_root"><u>Go to Root</u></string>
+
+    <string name="aadhar">Aadhar</string>
+    <string name="dl_driver_license">DL (Driver License)</string>
+    <string name="voter_id">Voter Id</string>
+    <string name="electricity_bill">Electricity Bill</string>
+    <string name="landline_phone_bill">Landline Phone Bill</string>
+    <string name="any_government_document">Any Government Document.</string>
+
+    <string name="life_insurance">Life Insurance</string>
+    <string name="insurance_number">Insurance Number</string>
+    <string name="policy_holder_name">Policy Holder Name</string>
+    <string name="premium">Premium</string>
+    <string name="company_name">Company Name</string>
+    <string name="general_insurance">General Insurance</string>
+    <string name="insurance_type">Insurance Type</string>
+    <string name="two_wheeler">Two Wheeler</string>
+    <string name="four_wheeler">Four Wheeler</string>
+    <string name="policy_number">Policy Number</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="purchased_year">Purchased Year</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="nominee_name">Nominee Name</string>
+
+    <!--Mobile Recharge-->
+    <string name="prepaid">Prepaid</string>
+    <string name="postpaid">Postpaid</string>
+    <string name="data_card">Datacard</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="datacard_number">Datacard Number</string>
+
+    <!--DTH Recharge-->
+    <string name="select_operator">Select Operator</string>
+    <string name="customer_id">Customer ID</string>
+    <string name="browse_plans">Browse Plans</string>
+    <string name="make_payment_from_wallet">Make Payment from your Cash Bag</string>
+    <string name="make_payment">Make  Payment</string>
+
+    <string name="purchase">Purchase</string>
+    <string name="valid">Form is valid</string>
+    <string name="invalid">Form is invalid</string>
+    <string name="resend_otp"><u>Resend OTP</u></string>
+
+    <!--Electricity-->
+    <string name="select_board">Select Board</string>
+    <string name="service_number">Service Number/Account Number</string>
+    <string name="electricity_inst_text">Payments may take up to 3 working days to reflect in your bill account.</string>
+
+    <string name="select_board_err">Please Select Board</string>
+    <string name="service_number_err">Please Enter Service Number</string>
+    <string name="view_tickets"><u>View Tickets</u></string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

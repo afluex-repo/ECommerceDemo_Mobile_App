@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:checked="true"
+        android:icon="@drawable/home_selector"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_business"
+        android:icon="@drawable/business_selector"
+        android:title="Business" />
+
+    <item
+        android:id="@+id/navigation_passbook"
+        android:icon="@null"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/my_order_selector"
+        android:title="My Orders" />
+
+    <item
+        android:id="@+id/navigation_sai"
+        android:icon="@drawable/ic_reward"
+        android:title="Rewards" />
+
+</menu>
